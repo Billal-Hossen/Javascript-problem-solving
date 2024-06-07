@@ -1,3 +1,5 @@
+// Write a function to remove duplicate characters from string.
+
 function removeDuplicateCharacters(str) {
   let uniqueArr = []
   for (let i = 0; i < str.length; i++) {
