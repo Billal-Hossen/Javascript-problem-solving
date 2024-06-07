@@ -1,3 +1,5 @@
+// Write a function to get number of factorial.
+
 function calculateFactorial(num) {
   let fact = 1;
   if (num == 0 || num == 1) {
